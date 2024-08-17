@@ -1,3 +1,2 @@
-Hello, this is a travel app in react
-edited one..
-Select * from git;
+Hello, this is a travel app in react..
+select * from github;
